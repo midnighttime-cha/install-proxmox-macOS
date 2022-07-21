@@ -1,6 +1,6 @@
 # วิธีทำแผ่น Boot ด้วย macOS เพื่อติดตั้ง Proxmox
 
-## ดาวน์โหลดไฟล์ .iso จาก [Download](https://www.proxmox.com/en/downloads)
+## ดาวน์โหลดไฟล์ .iso >> [Download](https://www.proxmox.com/en/downloads)
 
 ## แปลงไฟล์ .iso เป็นไฟล์ .dmg ด้วยคำสั่ง hdiutil
 ```sh
